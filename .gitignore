@@ -1,6 +1,7 @@
 # Local directories
 
 build
+.cache
 
 # Prerequisites
 *.d
